@@ -1,0 +1,4 @@
+[core]
+    remote = task06
+['remote "task06"']
+    url = gdrive://10_HY6C18QdQX825ISSVaiABeeNDdxJox
