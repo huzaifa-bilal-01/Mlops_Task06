@@ -1,0 +1,6 @@
+outs:
+- md5: 432936afa29979eddef43dd47a86865d.dir
+  size: 101008635
+  nfiles: 975
+  hash: md5
+  path: fashion_dataset
